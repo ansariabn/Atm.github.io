@@ -3,9 +3,18 @@
 
 
 ## there are many option in the Atm simulation machine after run the program start below
-- create pin
-- checkpin 
+- 1. create pin
+- 2. checkpin 
 
+## create pin
+- first choose key only digit
+- confirm key if confirm key valid then menu bar show
+
+## Menu bar 
+- 1. withdraw money
+- 2. deposit money 
+- 3. Available balance 
+- 4. Exit
 
 
 
